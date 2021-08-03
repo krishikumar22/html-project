@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>STUDENT FORM</title>
+  </head>
+  <body style="background:aqua;">
+  
+ 
+   <p style="color:purple;">ENTER THE STUDENT NAME</p>
+   <input type="text" />
+   <p>ENTER THE STUDENT REGISTER NUMBER</p>
+   <input type="text" />
+   <p>ENTER THE EMAIL ID</p>
+   <input type="text" />
+   <p>ENTER THE BATCH OF YOUR COLLEGE</p>
+   <input type="date" />
+   <p>ENTER YOUR FAVOURITE COLOUR<p>
+   <input type="color" />
+   <p>PLEASE CHECK THAT YOU HAVE FILLED ALL CORRECTLY</p>
+   <input type="checkbox" />
+   <p>SUBMIT YOUR AADHAR CARD</p>
+   <input type="file" />
+   <p>SUBMIT YOUR MARKSHEET</p>
+   <input type="file" />
+   <p><input type="submit" /></p>
+
+  </body>
+</html>
